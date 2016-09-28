@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "949905889.com.xtb.xStation",
-				"paths": [ "*"]
+				"paths": ["*","/"]
 			}
 		]
 	}
