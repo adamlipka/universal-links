@@ -1,14 +1,14 @@
 {
 "activitycontinuation": {
     "apps": [
-      "LJ62D49H24.com.xtb.xStation"
+      "LJ62D49H24.group.com.xtb.xStation"
     ]
   },
 	"applinks": {
 		"apps": [],
 		"details": [
 			{
-				"appID": "LJ62D49H24.com.xtb.xStation",
+				"appID": "LJ62D49H24.group.com.xtb.xStation",
 				"paths": ["*","/"]
 			}
 		]
