@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.xtb.xmobile2",
+    "sha256_cert_fingerprints":
+    ["09:A2:72:40:2C:E2:93:16:17:E7:08:26:04:CD:EE:B4:B5:A0:FA:7E:2B:37:71:A2:50:96:2F:61:68:D1:7C:DB"]
+  }
+}]
